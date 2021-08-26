@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9f083263-b66f-4677-be03-802f98a34a0e",
+    "data": [
+      {
+        "text": "Dessert \u0026 Drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f17149d4-3939-4035-ba8f-a689de434900",
+    "data": [
+      {
+        "text": "desert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "103f0f8e-b266-44e8-93b2-f8ced32e1121",
+    "data": [
+      {
+        "text": "drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
